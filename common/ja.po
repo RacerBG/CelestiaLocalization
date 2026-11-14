@@ -248,10 +248,6 @@ msgid ""
 "display Celestia on the external screen?"
 msgstr "外部ディスプレイが接続されています。外部ディスプレイにCelestiaを表示しますか？"
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr "アンチエイリアシング"
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2076,6 +2072,11 @@ msgid "Output"
 msgstr "出力"
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr "オーバーレイのアンチエイリアシング"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr "沼（Paludes）"
@@ -2527,6 +2528,11 @@ msgstr "岩塊（Saxa）"
 #  Star style
 msgid "Scaled Discs"
 msgstr "等級に応じた円"
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
+msgstr "シーンのアンチエイリアシング"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

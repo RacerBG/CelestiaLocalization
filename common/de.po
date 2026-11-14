@@ -258,10 +258,6 @@ msgstr ""
 "Celestia auf dem externen Bildschirm angezeigt "
 "werden?"
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr "Kantenglättung"
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2160,6 +2156,11 @@ msgid "Output"
 msgstr "Ausgabe"
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr "Kantenglättung für Einblendungen"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr "Paludes (Sümpfe)"
@@ -2636,6 +2637,11 @@ msgstr "Saxa (Felsblöcke)"
 #  Star style
 msgid "Scaled Discs"
 msgstr "Skalierte Kreise"
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
+msgstr "Kantenglättung für die Szene"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

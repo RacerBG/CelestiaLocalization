@@ -248,10 +248,6 @@ msgid ""
 "display Celestia on the external screen?"
 msgstr "외부 디스플레이가 연결되었습니다. 외부 디스플레이에 Celestia를 표시하시겠습니까?"
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr "안티앨리어싱"
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2086,6 +2082,11 @@ msgid "Output"
 msgstr "출력"
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr "오버레이 안티앨리어싱"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr "늪(Paludes)"
@@ -2490,7 +2491,9 @@ msgstr "오른쪽으로 기울이기"
 msgid ""
 "Rotate and pan with two fingers. Pinch zoom "
 "remains enabled."
-msgstr "두 손가락으로 화면을 회전하고 이동합니다. 손가락을 벌리거나 오므려 확대·축소하는 기능은 계속 사용할 수 있습니다."
+msgstr ""
+"두 손가락으로 화면을 회전하고 이동합니다. 손가락을 벌리거나 오므려 확대·축소하는 기능은 "
+"계속 사용할 수 있습니다."
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
@@ -2539,6 +2542,11 @@ msgstr "바위(Saxa)"
 #  Star style
 msgid "Scaled Discs"
 msgstr "등급에 따른 원"
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
+msgstr "장면 안티앨리어싱"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

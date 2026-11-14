@@ -256,10 +256,6 @@ msgstr ""
 "È collegato uno schermo esterno. Vuoi "
 "visualizzare Celestia sullo schermo esterno?"
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr "Anti-aliasing"
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2164,6 +2160,11 @@ msgid "Output"
 msgstr "Uscita"
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr "Anti-aliasing degli elementi sovrapposti"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr "Paludes (paludi)"
@@ -2587,8 +2588,8 @@ msgid ""
 "Rotate and pan with two fingers. Pinch zoom "
 "remains enabled."
 msgstr ""
-"Ruota e sposta la vista con due dita. Lo zoom "
-"con il gesto di pizzicamento rimane attivo."
+"Ruota e sposta la vista con due dita. Lo zoom con "
+"il gesto di pizzicamento rimane attivo."
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
@@ -2637,6 +2638,11 @@ msgstr "Saxa (massi)"
 #  Star style
 msgid "Scaled Discs"
 msgstr "Dischi in scala "
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
+msgstr "Anti-aliasing della scena"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

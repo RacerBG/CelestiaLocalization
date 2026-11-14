@@ -247,10 +247,6 @@ msgid ""
 "display Celestia on the external screen?"
 msgstr "检测到已连接新的屏幕，您是否想在外接屏幕上显示 Celestia ？"
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr "抗锯齿"
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2072,6 +2068,11 @@ msgid "Output"
 msgstr "输出"
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr "叠加元素抗锯齿"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr "沼"
@@ -2521,6 +2522,11 @@ msgstr "巨石"
 #  Star style
 msgid "Scaled Discs"
 msgstr "缩放点"
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
+msgstr "场景抗锯齿"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

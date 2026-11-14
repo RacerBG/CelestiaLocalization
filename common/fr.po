@@ -256,10 +256,6 @@ msgstr ""
 "Un écran externe est connecté. Voulez-vous y "
 "afficher Celestia ?"
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr "Anticrénelage"
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2171,6 +2167,11 @@ msgid "Output"
 msgstr "Sortie"
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr "Anticrénelage des éléments superposés"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr "Paludes (marais)"
@@ -2647,6 +2648,11 @@ msgstr "Saxa (blocs rocheux)"
 #  Star style
 msgid "Scaled Discs"
 msgstr "Échelle de disques"
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
+msgstr "Anticrénelage de la scène"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

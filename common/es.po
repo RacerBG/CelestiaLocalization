@@ -255,10 +255,6 @@ msgstr ""
 "Se ha conectado una pantalla externa. ¿Quieres "
 "mostrar Celestia en ella?"
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr "Suavizado de bordes"
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2150,6 +2146,11 @@ msgid "Output"
 msgstr "Salida"
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr "Suavizado de bordes de elementos superpuestos"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr "Paludes (pantanos)"
@@ -2622,6 +2623,11 @@ msgstr "Saxa (bloques rocosos)"
 #  Star style
 msgid "Scaled Discs"
 msgstr "Discos a escala"
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
+msgstr "Suavizado de bordes de la escena"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

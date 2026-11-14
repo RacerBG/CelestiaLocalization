@@ -259,10 +259,6 @@ msgstr ""
 "Uma tela externa está conectada. Deseja exibir o "
 "Celestia na tela externa?"
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr "Suavização de Serrilhado"
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2150,6 +2146,11 @@ msgid "Output"
 msgstr "Saída"
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr "Suavização de serrilhado dos elementos sobrepostos"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr "Paludes (Pântanos)"
@@ -2574,8 +2575,8 @@ msgid ""
 "Rotate and pan with two fingers. Pinch zoom "
 "remains enabled."
 msgstr ""
-"Gire e desloque a visualização com dois dedos. "
-"O zoom com o gesto de pinça continua ativado."
+"Gire e desloque a visualização com dois dedos. O "
+"zoom com o gesto de pinça continua ativado."
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
@@ -2624,6 +2625,11 @@ msgstr "Saxa (Blocos Rochosos)"
 #  Star style
 msgid "Scaled Discs"
 msgstr "Discos em Escala"
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
+msgstr "Suavização de serrilhado da cena"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

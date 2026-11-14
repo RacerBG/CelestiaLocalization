@@ -249,10 +249,6 @@ msgstr ""
 "Свързан е външен екран, искате ли „Celestia“ да "
 "го използва?"
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr "Изглаждане"
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2081,6 +2077,11 @@ msgid "Output"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr ""
@@ -2533,6 +2534,11 @@ msgstr ""
 #  Star style
 msgid "Scaled Discs"
 msgstr "Мащабирани дискове"
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

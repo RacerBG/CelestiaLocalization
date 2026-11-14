@@ -245,10 +245,6 @@ msgid ""
 "display Celestia on the external screen?"
 msgstr ""
 
-#  Platforms: Apple, Android, Windows
-msgid "Anti-aliasing"
-msgstr ""
-
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
@@ -2060,6 +2056,11 @@ msgid "Output"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Anti-aliasing for labels, markers, and other overlays
+msgid "Overlay anti-aliasing"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
 msgstr ""
@@ -2507,6 +2508,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Scaled Discs"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Anti-aliasing for the rendered scene
+msgid "Scene anti-aliasing"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
