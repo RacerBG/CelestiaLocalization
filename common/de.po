@@ -2581,6 +2581,14 @@ msgstr "Nach links rollen"
 msgid "Roll Right"
 msgstr "Nach rechts rollen"
 
+#  Platforms: Apple, Android
+msgid ""
+"Rotate and pan with two fingers. Pinch zoom "
+"remains enabled."
+msgstr ""
+"Drehen und verschieben Sie die Ansicht mit zwei "
+"Fingern. Zoomen mit zwei Fingern bleibt aktiviert."
+
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
@@ -3056,8 +3064,8 @@ msgid ""
 "Swipe inward from the left edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Wischen Sie vom linken Bildschirmrand nach innen, um die "
-"Symbolleiste anzuzeigen."
+"Wischen Sie vom linken Bildschirmrand nach innen, "
+"um die Symbolleiste anzuzeigen."
 
 #  Platforms: Apple
 #  Hint shown the first time the toolbar is hidden in a left-to-right layout
@@ -3065,8 +3073,8 @@ msgid ""
 "Swipe inward from the right edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Wischen Sie vom rechten Bildschirmrand nach innen, um die "
-"Symbolleiste anzuzeigen."
+"Wischen Sie vom rechten Bildschirmrand nach "
+"innen, um die Symbolleiste anzuzeigen."
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -3144,9 +3152,10 @@ msgid ""
 "gesture navigation, swipe inward from either side "
 "of the screen instead."
 msgstr ""
-"Die Symbolleiste ist ausgeblendet. Drücken Sie die Zurück-Taste "
-"Ihres Geräts, um sie wieder anzuzeigen. Wenn Sie die "
-"Gestensteuerung verwenden, wischen Sie stattdessen vom linken "
+"Die Symbolleiste ist ausgeblendet. Drücken Sie "
+"die Zurück-Taste Ihres Geräts, um sie wieder "
+"anzuzeigen. Wenn Sie die Gestensteuerung "
+"verwenden, wischen Sie stattdessen vom linken "
 "oder rechten Bildschirmrand nach innen."
 
 #  Platforms: Android
@@ -3297,6 +3306,10 @@ msgstr "Dreieck"
 #  Free trial on subscription service
 msgid "Try for Free"
 msgstr "Kostenlos testen"
+
+#  Platforms: Apple, Android
+msgid "Two-Finger Rotation and Pan"
+msgstr "Drehen und Verschieben mit zwei Fingern"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing

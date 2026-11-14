@@ -2468,6 +2468,12 @@ msgstr "Roll Left"
 msgid "Roll Right"
 msgstr "Roll Right"
 
+#  Platforms: Apple, Android
+msgid ""
+"Rotate and pan with two fingers. Pinch zoom "
+"remains enabled."
+msgstr "使用双指旋转和平移视图。双指捏合缩放仍然可用。"
+
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
@@ -3011,9 +3017,7 @@ msgid ""
 "button to show the toolbar again. If you use "
 "gesture navigation, swipe inward from either side "
 "of the screen instead."
-msgstr ""
-"工具栏已隐藏。按设备的返回按钮可重新显示工具栏。"
-"如果使用手势导航，请从屏幕左边缘或右边缘向内轻扫。"
+msgstr "工具栏已隐藏。按设备的返回按钮可重新显示工具栏。如果使用手势导航，请从屏幕左边缘或右边缘向内轻扫。"
 
 #  Platforms: Android
 msgid "This feature is not supported."
@@ -3152,6 +3156,10 @@ msgstr "三角形"
 #  Free trial on subscription service
 msgid "Try for Free"
 msgstr "免费试用"
+
+#  Platforms: Apple, Android
+msgid "Two-Finger Rotation and Pan"
+msgstr "双指旋转和平移"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing

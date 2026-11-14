@@ -2549,6 +2549,15 @@ msgstr "Крен влево"
 msgid "Roll Right"
 msgstr "Крен вправо"
 
+#  Platforms: Apple, Android
+msgid ""
+"Rotate and pan with two fingers. Pinch zoom "
+"remains enabled."
+msgstr ""
+"Поворачивайте и перемещайте вид двумя пальцами. "
+"Масштабирование сведением и разведением пальцев "
+"остаётся доступным."
+
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
@@ -3024,8 +3033,8 @@ msgid ""
 "Swipe inward from the left edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Проведите от левого края экрана к центру, "
-"чтобы показать панель инструментов."
+"Проведите от левого края экрана к центру, чтобы "
+"показать панель инструментов."
 
 #  Platforms: Apple
 #  Hint shown the first time the toolbar is hidden in a left-to-right layout
@@ -3033,8 +3042,8 @@ msgid ""
 "Swipe inward from the right edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Проведите от правого края экрана к центру, "
-"чтобы показать панель инструментов."
+"Проведите от правого края экрана к центру, чтобы "
+"показать панель инструментов."
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -3112,10 +3121,10 @@ msgid ""
 "gesture navigation, swipe inward from either side "
 "of the screen instead."
 msgstr ""
-"Панель инструментов скрыта. Нажмите кнопку «Назад» на "
-"устройстве, чтобы снова её показать. Если вы используете "
-"навигацию жестами, проведите от левого или правого края "
-"экрана к центру."
+"Панель инструментов скрыта. Нажмите кнопку "
+"«Назад» на устройстве, чтобы снова её показать. "
+"Если вы используете навигацию жестами, проведите "
+"от левого или правого края экрана к центру."
 
 #  Platforms: Android
 msgid "This feature is not supported."
@@ -3263,6 +3272,10 @@ msgstr "Треугольник"
 #  Free trial on subscription service
 msgid "Try for Free"
 msgstr "Попробовать бесплатно"
+
+#  Platforms: Apple, Android
+msgid "Two-Finger Rotation and Pan"
+msgstr "Поворот и перемещение двумя пальцами"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing

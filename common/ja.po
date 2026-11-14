@@ -2474,6 +2474,12 @@ msgstr "視点を左に回転"
 msgid "Roll Right"
 msgstr "視点を右に回転"
 
+#  Platforms: Apple, Android
+msgid ""
+"Rotate and pan with two fingers. Pinch zoom "
+"remains enabled."
+msgstr "2本指で表示を回転・移動します。ピンチ操作によるズームは引き続き利用できます。"
+
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
@@ -3018,10 +3024,7 @@ msgid ""
 "gesture navigation, swipe inward from either side "
 "of the screen instead."
 msgstr ""
-"ツールバーは非表示になっています。もう一度表示するには、"
-"端末の戻るボタンを押してください。ジェスチャーナビゲーションを"
-"使用している場合は、代わりに画面の左右いずれかの端から"
-"内側にスワイプしてください。"
+"ツールバーは非表示になっています。もう一度表示するには、端末の戻るボタンを押してください。ジェスチャーナビゲーションを使用している場合は、代わりに画面の左右いずれかの端から内側にスワイプしてください。"
 
 #  Platforms: Android
 msgid "This feature is not supported."
@@ -3160,6 +3163,10 @@ msgstr "三角形(△)"
 #  Free trial on subscription service
 msgid "Try for Free"
 msgstr "無料で試す"
+
+#  Platforms: Apple, Android
+msgid "Two-Finger Rotation and Pan"
+msgstr "2本指での回転と移動"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing

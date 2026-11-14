@@ -2582,6 +2582,14 @@ msgstr "Rollio a sinistra"
 msgid "Roll Right"
 msgstr "Rollio a destra"
 
+#  Platforms: Apple, Android
+msgid ""
+"Rotate and pan with two fingers. Pinch zoom "
+"remains enabled."
+msgstr ""
+"Ruota e sposta la vista con due dita. Lo zoom "
+"con il gesto di pizzicamento rimane attivo."
+
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
@@ -3054,8 +3062,8 @@ msgid ""
 "Swipe inward from the left edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Scorri verso l’interno dal bordo sinistro dello schermo "
-"per mostrare la barra degli strumenti."
+"Scorri verso l’interno dal bordo sinistro dello "
+"schermo per mostrare la barra degli strumenti."
 
 #  Platforms: Apple
 #  Hint shown the first time the toolbar is hidden in a left-to-right layout
@@ -3063,8 +3071,8 @@ msgid ""
 "Swipe inward from the right edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Scorri verso l’interno dal bordo destro dello schermo "
-"per mostrare la barra degli strumenti."
+"Scorri verso l’interno dal bordo destro dello "
+"schermo per mostrare la barra degli strumenti."
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -3143,10 +3151,11 @@ msgid ""
 "gesture navigation, swipe inward from either side "
 "of the screen instead."
 msgstr ""
-"La barra degli strumenti è nascosta. Premi il pulsante "
-"Indietro del dispositivo per mostrarla di nuovo. Se usi "
-"la navigazione tramite gesti, scorri invece verso l’interno "
-"dal bordo sinistro o destro dello schermo."
+"La barra degli strumenti è nascosta. Premi il "
+"pulsante Indietro del dispositivo per mostrarla "
+"di nuovo. Se usi la navigazione tramite gesti, "
+"scorri invece verso l’interno dal bordo sinistro "
+"o destro dello schermo."
 
 #  Platforms: Android
 msgid "This feature is not supported."
@@ -3294,6 +3303,10 @@ msgstr "Triangolo"
 #  Free trial on subscription service
 msgid "Try for Free"
 msgstr "Prova gratis"
+
+#  Platforms: Apple, Android
+msgid "Two-Finger Rotation and Pan"
+msgstr "Rotazione e spostamento con due dita"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing

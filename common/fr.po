@@ -2592,6 +2592,14 @@ msgstr "Roulis à gauche"
 msgid "Roll Right"
 msgstr "Roulis à droite"
 
+#  Platforms: Apple, Android
+msgid ""
+"Rotate and pan with two fingers. Pinch zoom "
+"remains enabled."
+msgstr ""
+"Faites pivoter et déplacez la vue avec deux "
+"doigts. Le zoom par pincement reste activé."
+
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
@@ -3067,8 +3075,8 @@ msgid ""
 "Swipe inward from the left edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Balayez vers l’intérieur depuis le bord gauche de l’écran "
-"pour afficher la barre d’outils."
+"Balayez vers l’intérieur depuis le bord gauche de "
+"l’écran pour afficher la barre d’outils."
 
 #  Platforms: Apple
 #  Hint shown the first time the toolbar is hidden in a left-to-right layout
@@ -3076,8 +3084,8 @@ msgid ""
 "Swipe inward from the right edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Balayez vers l’intérieur depuis le bord droit de l’écran "
-"pour afficher la barre d’outils."
+"Balayez vers l’intérieur depuis le bord droit de "
+"l’écran pour afficher la barre d’outils."
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -3156,10 +3164,11 @@ msgid ""
 "gesture navigation, swipe inward from either side "
 "of the screen instead."
 msgstr ""
-"La barre d’outils est masquée. Appuyez sur le bouton Retour "
-"de votre appareil pour la réafficher. Si vous utilisez la "
-"navigation par gestes, balayez plutôt vers l’intérieur "
-"depuis le bord gauche ou droit de l’écran."
+"La barre d’outils est masquée. Appuyez sur le "
+"bouton Retour de votre appareil pour la "
+"réafficher. Si vous utilisez la navigation par "
+"gestes, balayez plutôt vers l’intérieur depuis le "
+"bord gauche ou droit de l’écran."
 
 #  Platforms: Android
 msgid "This feature is not supported."
@@ -3310,6 +3319,10 @@ msgstr "Triangle"
 #  Free trial on subscription service
 msgid "Try for Free"
 msgstr "Essayer gratuitement"
+
+#  Platforms: Apple, Android
+msgid "Two-Finger Rotation and Pan"
+msgstr "Rotation et déplacement à deux doigts"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing

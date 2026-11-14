@@ -2480,6 +2480,12 @@ msgstr "Завърти наляво"
 msgid "Roll Right"
 msgstr "Завърти надясно"
 
+#  Platforms: Apple, Android
+msgid ""
+"Rotate and pan with two fingers. Pinch zoom "
+"remains enabled."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
@@ -3165,6 +3171,10 @@ msgstr "Триъгълник"
 #  Platforms: Apple, Android
 #  Free trial on subscription service
 msgid "Try for Free"
+msgstr ""
+
+#  Platforms: Apple, Android
+msgid "Two-Finger Rotation and Pan"
 msgstr ""
 
 #  Platforms: Apple, Android

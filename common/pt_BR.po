@@ -2569,6 +2569,14 @@ msgstr "Girar para a Esquerda"
 msgid "Roll Right"
 msgstr "Girar para a Direita"
 
+#  Platforms: Apple, Android
+msgid ""
+"Rotate and pan with two fingers. Pinch zoom "
+"remains enabled."
+msgstr ""
+"Gire e desloque a visualização com dois dedos. "
+"O zoom com o gesto de pinça continua ativado."
+
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
@@ -3042,8 +3050,8 @@ msgid ""
 "Swipe inward from the left edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Deslize da borda esquerda da tela para dentro para "
-"mostrar a barra de ferramentas."
+"Deslize da borda esquerda da tela para dentro "
+"para mostrar a barra de ferramentas."
 
 #  Platforms: Apple
 #  Hint shown the first time the toolbar is hidden in a left-to-right layout
@@ -3130,10 +3138,11 @@ msgid ""
 "gesture navigation, swipe inward from either side "
 "of the screen instead."
 msgstr ""
-"A barra de ferramentas está oculta. Pressione o botão "
-"Voltar do dispositivo para mostrá-la novamente. Se você "
-"usa a navegação por gestos, deslize de uma das bordas "
-"laterais da tela para dentro."
+"A barra de ferramentas está oculta. Pressione o "
+"botão Voltar do dispositivo para mostrá-la "
+"novamente. Se você usa a navegação por gestos, "
+"deslize de uma das bordas laterais da tela para "
+"dentro."
 
 #  Platforms: Android
 msgid "This feature is not supported."
@@ -3281,6 +3290,10 @@ msgstr "Triângulo"
 #  Free trial on subscription service
 msgid "Try for Free"
 msgstr "Experimente Grátis"
+
+#  Platforms: Apple, Android
+msgid "Two-Finger Rotation and Pan"
+msgstr "Rotação e deslocamento com dois dedos"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing

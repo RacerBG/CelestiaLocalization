@@ -2567,6 +2567,14 @@ msgstr "Alabear a la izquierda"
 msgid "Roll Right"
 msgstr "Alabear a la derecha"
 
+#  Platforms: Apple, Android
+msgid ""
+"Rotate and pan with two fingers. Pinch zoom "
+"remains enabled."
+msgstr ""
+"Gira y desplaza la vista con dos dedos. El zoom "
+"con el gesto de pellizco sigue activado."
+
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
@@ -3041,8 +3049,9 @@ msgid ""
 "Swipe inward from the left edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Desliza el dedo hacia dentro desde el borde izquierdo de "
-"la pantalla para mostrar la barra de herramientas."
+"Desliza el dedo hacia dentro desde el borde "
+"izquierdo de la pantalla para mostrar la barra de "
+"herramientas."
 
 #  Platforms: Apple
 #  Hint shown the first time the toolbar is hidden in a left-to-right layout
@@ -3050,8 +3059,9 @@ msgid ""
 "Swipe inward from the right edge of the screen to "
 "show the toolbar."
 msgstr ""
-"Desliza el dedo hacia dentro desde el borde derecho de "
-"la pantalla para mostrar la barra de herramientas."
+"Desliza el dedo hacia dentro desde el borde "
+"derecho de la pantalla para mostrar la barra de "
+"herramientas."
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -3130,10 +3140,11 @@ msgid ""
 "gesture navigation, swipe inward from either side "
 "of the screen instead."
 msgstr ""
-"La barra de herramientas está oculta. Pulsa el botón Atrás "
-"de tu dispositivo para volver a mostrarla. Si usas la "
-"navegación por gestos, desliza el dedo hacia dentro desde "
-"cualquiera de los bordes laterales de la pantalla."
+"La barra de herramientas está oculta. Pulsa el "
+"botón Atrás de tu dispositivo para volver a "
+"mostrarla. Si usas la navegación por gestos, "
+"desliza el dedo hacia dentro desde cualquiera de "
+"los bordes laterales de la pantalla."
 
 #  Platforms: Android
 msgid "This feature is not supported."
@@ -3281,6 +3292,10 @@ msgstr "Triángulo"
 #  Free trial on subscription service
 msgid "Try for Free"
 msgstr "Probar gratis"
+
+#  Platforms: Apple, Android
+msgid "Two-Finger Rotation and Pan"
+msgstr "Rotación y desplazamiento con dos dedos"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing
