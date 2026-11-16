@@ -171,6 +171,11 @@ msgstr ""
 msgid "About Celestia"
 msgstr "Περί Celestia"
 
+#  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "ACES (fitted)"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Add a new item (bookmark)
 msgid "Add"
@@ -1082,6 +1087,11 @@ msgid "Exit Celestia"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "Exponential"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Output rendering setting
 #  PSF star setting
 msgid "Exposure"
@@ -1718,11 +1728,6 @@ msgid "Manage Subscription"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
-#  Tone mapping mode
-msgid "Manual"
-msgstr ""
-
-#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Maria (Seas)"
 msgstr "Θάλασσες"
@@ -2331,6 +2336,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Regiones (Regions)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "Reinhard"
 msgstr ""
 
 #  Platforms: Apple, Android

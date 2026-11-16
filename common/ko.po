@@ -173,6 +173,11 @@ msgstr "Celestia 정보"
 msgid "About Celestia"
 msgstr "셀레스티아에 대하여"
 
+#  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "ACES (fitted)"
+msgstr "ACES (근사)"
+
 #  Platforms: Apple, Android
 #  Add a new item (bookmark)
 msgid "Add"
@@ -1093,6 +1098,11 @@ msgid "Exit Celestia"
 msgstr "Celestia 종료"
 
 #  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "Exponential"
+msgstr "지수 함수"
+
+#  Platforms: Apple, Android, Windows
 #  Output rendering setting
 #  PSF star setting
 msgid "Exposure"
@@ -1737,11 +1747,6 @@ msgid "Manage Subscription"
 msgstr "구독 관리"
 
 #  Platforms: Apple, Android, Windows
-#  Tone mapping mode
-msgid "Manual"
-msgstr "수동"
-
-#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Maria (Seas)"
 msgstr "바다"
@@ -2362,6 +2367,11 @@ msgstr "지역"
 #  Location labels
 msgid "Regiones (Regions)"
 msgstr "지역(Regiones)"
+
+#  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "Reinhard"
+msgstr "Reinhard"
 
 #  Platforms: Apple, Android
 #  Alert title for add-ons that are related to an object
