@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "här";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Mest visade";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Mest visade genom tiderna";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "En lista över tilläggen med flest visningar totalt genom tiderna.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Nyligen tillagda";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Nyligen uppdaterade";
 

@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "buradan";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "En Çok Görüntülenenler";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Tüm Zamanların En Çok Görüntülenenleri";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Tüm zamanlarda en fazla toplam görüntülenmeye sahip eklentilerin listesi.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Son Eklenenler";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Son Güncellenenler";
 

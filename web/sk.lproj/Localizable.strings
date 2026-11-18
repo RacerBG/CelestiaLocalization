@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "tu";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Najsledovanejšie";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Najsledovanejšie za celý čas";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Zoznam doplnkov s najvyšším celkovým počtom zobrazení za celý čas.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Nedávno pridané";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Nedávno aktualizované";
 

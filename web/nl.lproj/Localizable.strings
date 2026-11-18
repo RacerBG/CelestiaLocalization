@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "hier";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Meest bekeken";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Meest bekeken aller tijden";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Een lijst met add-ons met het hoogste totale aantal weergaven aller tijden.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Onlangs toegevoegd";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Onlangs bijgewerkt";
 

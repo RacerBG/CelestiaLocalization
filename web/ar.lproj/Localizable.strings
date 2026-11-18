@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "هنا";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "الأكثر مشاهدة";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "الأكثر مشاهدة على الإطلاق";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "قائمة الإضافات التي حصلت على أكبر إجمالي عدد من المشاهدات على الإطلاق.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "أُضيفت مؤخرًا";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "حُدِّثت مؤخرًا";
 

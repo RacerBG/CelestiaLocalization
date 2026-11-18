@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "itt";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Legtöbbet megtekintett";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Legtöbbet megtekintett (összesen)";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "A valaha legtöbb összesített megtekintést elért kiegészítők listája.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Nemrég hozzáadott";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Nemrég frissített";
 

@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "aqui";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Mais vistos";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Mais vistos de sempre";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Lista de complementos com o maior número total de visualizações de sempre.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Adicionados recentemente";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Atualizados recentemente";
 

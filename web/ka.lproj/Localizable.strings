@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "აქ";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "ყველაზე ნანახი";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "ყველაზე ნანახი (ყველა დროის)";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "დამატებების სია ყველა დროის ჯამური ნახვების რაოდენობის მიხედვით.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "ახლახან დამატებული";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "ახლახან განახლებული";
 

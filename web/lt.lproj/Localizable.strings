@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "čia";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Daugiausiai peržiūrėti";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Daugiausiai peržiūrėti per visą laiką";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Priedų, turinčių didžiausią bendrą peržiūrų skaičių per visą laiką, sąrašas.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Neseniai pridėti";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Neseniai atnaujinti";
 

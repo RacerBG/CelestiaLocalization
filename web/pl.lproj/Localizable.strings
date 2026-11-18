@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "tutaj";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Najczęściej oglądane";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Najczęściej oglądane wszech czasów";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Lista dodatków z największą łączną liczbą wyświetleń w całym okresie.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Ostatnio dodane";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Ostatnio zaktualizowane";
 

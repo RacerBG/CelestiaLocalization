@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "εδώ";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Πιο δημοφιλή";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Περισσότερες προβολές όλων των εποχών";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Λίστα πρόσθετων με τις περισσότερες συνολικές προβολές όλων των εποχών.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Πρόσφατα προστεθέντα";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Πρόσφατα ενημερωμένα";
 

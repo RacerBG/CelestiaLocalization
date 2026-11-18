@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "aici";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Cele mai vizualizate";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Cele mai vizualizate din toate timpurile";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Lista suplimentelor cu cele mai multe vizualizări totale din toate timpurile.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Adăugate recent";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Actualizate recent";
 

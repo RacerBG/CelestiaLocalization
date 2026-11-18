@@ -79,6 +79,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "здесь";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Самые просматриваемые";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Самые просматриваемые за всё время";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Список дополнений с наибольшим общим числом просмотров за всё время.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Недавно добавленные";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Недавно обновлённые";
 

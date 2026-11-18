@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "šeit";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Visvairāk skatītie";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Visu laiku visvairāk skatītie";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Papildinājumu saraksts ar vislielāko kopējo skatījumu skaitu visā periodā.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Nesen pievienotie";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Nesen atjauninātie";
 

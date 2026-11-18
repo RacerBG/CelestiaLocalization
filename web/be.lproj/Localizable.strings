@@ -82,6 +82,8 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "тут";
 
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Найбольш праглядаемыя";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_TITLE" = "Найбольш праглядаемыя за ўвесь час";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_ALL_TIME_DESCRIPTION" = "Спіс дадаткаў з найбольшай агульнай колькасцю праглядаў за ўвесь час.";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Нядаўна дададзеныя";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Нядаўна абноўленыя";
 
